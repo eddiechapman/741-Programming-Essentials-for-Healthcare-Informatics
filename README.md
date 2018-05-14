@@ -4,7 +4,7 @@
 
 **Department of Health Informatics and Administration**
 
-**Term:**Fall 2017
+**Term:** Fall 2017
 
 **Instructor:** Rohit Kate
 
